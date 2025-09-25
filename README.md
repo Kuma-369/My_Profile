@@ -1,5 +1,5 @@
 # Gee
-mandyyeung.github.io/Image/IMG_3118.PNG
+[Logo](Image/IMG_3118.PNG)
 ### Education
 UoR
 
