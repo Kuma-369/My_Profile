@@ -1,4 +1,4 @@
-# Gee
+# Profile
 [Logo](Image/IMG_3118.PNG)
 ### Education
 UoR
