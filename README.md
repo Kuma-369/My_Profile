@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ka Ying Yeung</h1>
-<h3 align="center">Teaching Assistant · Aspiring Full-Stack Developer</h3>
+<h3 align="center">Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+JavaScript%2C+HTML+%26+CSS;Building+with+The+Odin+Project;From+GIS+%2B+Python+to+Full-Stack+Dev" alt="Typing SVG" />
